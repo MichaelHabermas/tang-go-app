@@ -1,4 +1,4 @@
-# Tang-Go – Complete System Diagrams (v4.0)
+# Tang-Go – Complete System Diagrams
 Updated for: tang-go-app starter + npm + Mapbox GL JS
 
 ## 1. High-Level Architecture (C4 – Level 2)
